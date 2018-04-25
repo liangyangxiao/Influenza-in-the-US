@@ -13,3 +13,4 @@ Flu data source: https://gis.cdc.gov/grasp/fluview/fluportaldashboard.html <br/>
 Temperature data source: https://www7.ncdc.noaa.gov/CDO/CDODivisionalSelect.jsp# <br/>
 Vaccine data source: ：https://www.cdc.gov/nchs/hus/contents2015.htm#068 <br/>
 Health Insurance data source: ：https://www.cdc.gov/nchs/hus/contents2015.htm#105 <br/>
+‘Influenza in the US.html’ uses the Adobe Dreamweaver template.

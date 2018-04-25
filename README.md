@@ -10,6 +10,6 @@ Visualization project about ILI and some related features<br/><br/>
 
 Reference:<br/>
 Flu data source: https://gis.cdc.gov/grasp/fluview/fluportaldashboard.html <br/>
-Temerature data source: https://www7.ncdc.noaa.gov/CDO/CDODivisionalSelect.jsp# <br/>
+Temperature data source: https://www7.ncdc.noaa.gov/CDO/CDODivisionalSelect.jsp# <br/>
 Vaccine data source: ：https://www.cdc.gov/nchs/hus/contents2015.htm#068 <br/>
 Health Insurance data source: ：https://www.cdc.gov/nchs/hus/contents2015.htm#105 <br/>
